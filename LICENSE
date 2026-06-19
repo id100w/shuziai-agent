@@ -1,0 +1,12 @@
+Copyright (c) Shuzi AI. All rights reserved.
+
+This repository is used only for public distribution of ShuziAgentBot binary
+artifacts, release notes, update manifests, and checksums.
+
+The ShuziAgentBot application is proprietary software. Unless expressly
+authorized in writing, you may not copy, modify, reverse engineer, bypass
+license controls, redistribute, resell, or create derivative works based on the
+application or its distributed binaries.
+
+Third-party open-source components remain licensed under their respective
+licenses.
